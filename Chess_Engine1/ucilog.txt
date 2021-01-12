@@ -1,0 +1,476 @@
+--------------------started at: 20/10/2020 19:07:12--------------------
+--------------------started at: 20/10/2020 19:07:12--------------------
+20/10/2020 19:07:18 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+20/10/2020 19:07:18 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+20/10/2020 19:07:24 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+20/10/2020 19:08:00 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+20/10/2020 19:08:07 --> <class '__main__.GoState'>:   command = go ; response = I'm stopping ; 
+--------------------started at: 20/10/2020 19:09:54--------------------
+--------------------started at: 20/10/2020 19:09:54--------------------
+20/10/2020 19:09:58 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+20/10/2020 19:09:58 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+20/10/2020 19:10:06 --> <class '__main__.ConnectionState'>:   command = quit ; response = I'm quitting ; 
+20/10/2020 19:10:06 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 20/10/2020 19:23:34--------------------
+--------------------started at: 20/10/2020 19:23:34--------------------
+20/10/2020 19:23:37 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+20/10/2020 19:23:37 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+20/10/2020 19:23:40 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+20/10/2020 19:23:44 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = Invalid Position command syntax ; 
+20/10/2020 19:23:44 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+20/10/2020 19:23:47 --> <class '__main__.NewGameInitState'>:   command = quit ; response = I'm quitting ; 
+20/10/2020 19:23:47 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 21/10/2020 12:14:02--------------------
+--------------------started at: 21/10/2020 12:14:02--------------------
+21/10/2020 12:14:05 --> <class '__main__.StartState'>:   command = quit ; response = Not a valid command! First, establish used protocol ; 
+21/10/2020 12:14:08 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+21/10/2020 12:14:08 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+21/10/2020 12:14:11 --> <class '__main__.ConnectionState'>:   command = quit ; response = I'm quitting ; 
+21/10/2020 12:14:11 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 22/10/2020 18:58:50--------------------
+--------------------started at: 22/10/2020 18:58:50--------------------
+22/10/2020 18:58:54 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 18:58:54 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 18:58:56 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 18:59:08 --> <class '__main__.PositionState'>:   command =  ; response = No command ; 
+--------------------started at: 22/10/2020 19:00:59--------------------
+--------------------started at: 22/10/2020 19:00:59--------------------
+22/10/2020 19:01:13 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:01:13 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:01:46 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:02:02 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = Invalid Position command syntax ; 
+22/10/2020 19:02:02 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:02:14 --> <class '__main__.PositionState'>:   command =  ; response = No command ; 
+--------------------started at: 22/10/2020 19:05:21--------------------
+--------------------started at: 22/10/2020 19:05:21--------------------
+22/10/2020 19:05:24 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:05:24 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:05:27 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:07:35--------------------
+--------------------started at: 22/10/2020 19:07:35--------------------
+22/10/2020 19:07:37 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:07:37 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:07:40 --> <class '__main__.ConnectionState'>:   command = ucinewmage ; response = Not a valid command! First, establish a new game! ; 
+22/10/2020 19:07:40 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:07:47 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:08:12 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+22/10/2020 19:08:12 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 22/10/2020 19:08:15--------------------
+--------------------started at: 22/10/2020 19:08:15--------------------
+22/10/2020 19:08:17 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:08:17 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:08:19 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:10:23--------------------
+--------------------started at: 22/10/2020 19:10:23--------------------
+22/10/2020 19:10:25 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:10:25 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:10:27 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:11:11--------------------
+--------------------started at: 22/10/2020 19:11:11--------------------
+22/10/2020 19:11:13 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:11:13 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:11:15 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:13:33--------------------
+--------------------started at: 22/10/2020 19:13:33--------------------
+22/10/2020 19:13:36 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:13:36 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:13:38 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:13:48 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = Invalid Position command syntax ; 
+22/10/2020 19:13:48 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:14:23--------------------
+--------------------started at: 22/10/2020 19:14:23--------------------
+22/10/2020 19:14:26 --> <class '__main__.StartState'>:   command = uci  ; response = Not a valid command! First, establish used protocol ; 
+22/10/2020 19:14:29 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:14:29 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:14:33 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 19:15:56--------------------
+--------------------started at: 22/10/2020 19:15:56--------------------
+22/10/2020 19:15:58 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:15:58 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:16:00 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:16:11 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+22/10/2020 19:16:11 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 22/10/2020 19:16:41--------------------
+--------------------started at: 22/10/2020 19:16:41--------------------
+22/10/2020 19:16:42 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 19:16:42 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 19:16:44 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:16:54 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = Invalid Position command syntax ; 
+22/10/2020 19:16:54 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:17:22 --> <class '__main__.NewGameInitState'>:   command = r1bk1rq1/pp3ppp/3n4/2p1N3/2B5/7P/PPP2PP1/R1BKR1Q1 w - - 0 0 moves ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 19:17:22 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 19:17:42 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+22/10/2020 19:17:42 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 22/10/2020 20:26:41--------------------
+--------------------started at: 22/10/2020 20:26:41--------------------
+22/10/2020 20:26:44 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 20:26:44 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 20:26:46 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = keyword = tokens[1] ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =             if 'moves' not in tokens: ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =                 self._log(command=self.command, response="Invalid Position command syntax") ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =                 resultstate = self ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =             elif keyword == 'startpos': ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =                 resultstate = PositionState(self.printer, self.logger, msg, self.engine_color) ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =             elif len(tokens[1:tokens.index('moves')]) != 6: ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =                 self._log(command=self.command, response="Invalid Position command syntax") ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =                 resultstate = self ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command =             else: ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:26:52 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:27:05 --> <class '__main__.NewGameInitState'>:   command =                 resultstate = PositionState(self.printer, self.logger, msg, self.engine_color)position startpos moves e2e4 ; response = Not a valid command! Commands accepted: position, quit ; 
+22/10/2020 20:27:05 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:27:22 --> <class '__main__.NewGameInitState'>:   command = quit ; response = I'm quitting ; 
+22/10/2020 20:27:22 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 22/10/2020 20:40:18--------------------
+--------------------started at: 22/10/2020 20:40:18--------------------
+22/10/2020 20:40:20 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 20:40:20 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 20:40:23 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 22/10/2020 20:43:09--------------------
+--------------------started at: 22/10/2020 20:43:09--------------------
+22/10/2020 20:43:11 --> <class '__main__.StartState'>:   command = uci  ; response = Not a valid command! First, establish used protocol ; 
+22/10/2020 20:43:12 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+22/10/2020 20:43:12 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+22/10/2020 20:43:14 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+22/10/2020 20:43:24 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+22/10/2020 20:45:07 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+22/10/2020 20:45:07 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 25/10/2020 10:19:45--------------------
+--------------------started at: 25/10/2020 10:19:45--------------------
+25/10/2020 10:19:47 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+25/10/2020 10:19:47 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+25/10/2020 10:19:50 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 10:20:03 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+25/10/2020 10:20:03 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 10:20:27 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+25/10/2020 10:20:27 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 25/10/2020 10:22:23--------------------
+--------------------started at: 25/10/2020 10:22:23--------------------
+25/10/2020 10:22:25 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+25/10/2020 10:22:25 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+25/10/2020 10:22:27 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 10:22:32 --> <class '__main__.NewGameInitState'>:   command = setoption engine_color ; response = Not a valid command! Commands accepted: position, quit ; 
+25/10/2020 10:22:32 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 10:22:42 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+25/10/2020 10:22:42 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 10:22:56 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+25/10/2020 10:22:56 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 25/10/2020 11:45:04--------------------
+--------------------started at: 25/10/2020 11:45:04--------------------
+25/10/2020 11:45:06 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+25/10/2020 11:45:06 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+25/10/2020 11:45:08 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 11:45:21 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+25/10/2020 11:45:21 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 11:45:45 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+25/10/2020 11:46:44 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+25/10/2020 11:46:44 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 25/10/2020 11:49:26--------------------
+--------------------started at: 25/10/2020 11:49:26--------------------
+25/10/2020 11:49:29 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+25/10/2020 11:49:29 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+25/10/2020 11:49:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 11:49:36 --> <class '__main__.NewGameInitState'>:   command = setoption engine_color ; response = Not a valid command! Commands accepted: position, quit ; 
+25/10/2020 11:49:36 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 25/10/2020 11:49:51--------------------
+--------------------started at: 25/10/2020 11:49:51--------------------
+25/10/2020 11:49:53 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+25/10/2020 11:49:53 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+25/10/2020 11:49:55 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 11:50:02 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+25/10/2020 11:50:02 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+25/10/2020 11:50:25 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+25/10/2020 11:50:38 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+25/10/2020 11:50:38 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 11:29:07--------------------
+--------------------started at: 26/10/2020 11:29:07--------------------
+26/10/2020 11:29:15 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 11:29:15 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 11:29:19 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 11:29:47 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 11:29:47 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 26/10/2020 11:43:40--------------------
+--------------------started at: 26/10/2020 11:43:40--------------------
+26/10/2020 11:43:42 --> <class '__main__.StartState'>:   command = uci  ; response = Not a valid command! First, establish used protocol ; 
+26/10/2020 11:43:44 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 11:43:44 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 11:43:48 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 11:43:56 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 11:43:56 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 11:44:09 --> <class '__main__.GoState'>:   command = dsd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 11:44:12 --> <class '__main__.PassState'>:   command = sdsd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 11:44:12 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+26/10/2020 11:44:12 --> <class '__main__.GoState'>:   command = go ; response = Evaluation going on! ; 
+26/10/2020 11:44:30 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 11:44:30 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 12:52:04--------------------
+--------------------started at: 26/10/2020 12:52:04--------------------
+26/10/2020 12:52:05 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 12:52:05 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 12:52:07 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 12:52:13 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 12:52:13 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 12:52:19 --> <class '__main__.PositionState'>:   command = gp ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+--------------------started at: 26/10/2020 12:55:53--------------------
+--------------------started at: 26/10/2020 12:55:53--------------------
+26/10/2020 12:55:54 --> <class '__main__.StartState'>:   command = uvi ; response = Not a valid command! First, establish used protocol ; 
+26/10/2020 12:55:56 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 12:55:56 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 12:55:58 --> <class '__main__.ConnectionState'>:   command = ucinregame ; response = Not a valid command! First, establish a new game! ; 
+26/10/2020 12:55:58 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 12:56:01 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 12:56:12 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 12:56:12 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 12:56:21 --> <class '__main__.PositionState'>:   command = gr ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+--------------------started at: 26/10/2020 13:01:11--------------------
+--------------------started at: 26/10/2020 13:01:11--------------------
+26/10/2020 13:01:12 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:01:12 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:01:15 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:01:22 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:01:22 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:01:30 --> <class '__main__.PositionState'>:   command = gp ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+26/10/2020 13:01:33 --> <class '__main__.PositionState'>:   command = fd ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+26/10/2020 13:01:34 --> <class '__main__.PositionState'>:   command = asdasdas ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+26/10/2020 13:01:49 --> <class '__main__.GoState'>:   command = p ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:01:49 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000026C3E2F3CC8> ; response = Evaluation going on! ; 
+26/10/2020 13:02:04 --> <class '__main__.GoState'>:   command = dsds ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+--------------------started at: 26/10/2020 13:11:01--------------------
+--------------------started at: 26/10/2020 13:11:01--------------------
+26/10/2020 13:11:04 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:11:04 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:11:06 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:11:13 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:11:13 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 26/10/2020 13:11:23--------------------
+--------------------started at: 26/10/2020 13:11:23--------------------
+26/10/2020 13:11:25 --> <class '__main__.StartState'>:   command = uc ; response = Not a valid command! First, establish used protocol ; 
+26/10/2020 13:11:26 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:11:26 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:11:29 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:11:37 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:11:37 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:11:48 --> <class '__main__.GoState'>:   command = dsds ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+--------------------started at: 26/10/2020 13:12:17--------------------
+--------------------started at: 26/10/2020 13:12:17--------------------
+26/10/2020 13:12:20 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:12:20 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:12:22 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:12:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:12:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:12:39 --> <class '__main__.GoState'>:   command = ds ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:12:39 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x00000284426149C8> ; response = Evaluation going on! ; 
+26/10/2020 13:12:44 --> <class '__main__.GoState'>:   command = dsd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:12:45 --> <class '__main__.GoState'>:   command = asdad ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:12:45 --> <class '__main__.GoState'>:   command = asdd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:12:59 --> <class '__main__.PositionState'>:   command = sd ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+26/10/2020 13:13:03 --> <class '__main__.GoState'>:   command = s ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:13:03 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000028442654E08> ; response = Evaluation going on! ; 
+26/10/2020 13:13:10 --> <class '__main__.GoState'>:   command = opo ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:13:11 --> <class '__main__.GoState'>:   command = nnknk ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:13:13 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 13:13:13 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 13:22:37--------------------
+--------------------started at: 26/10/2020 13:22:37--------------------
+26/10/2020 13:22:41 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:22:41 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:22:43 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:22:51 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:22:51 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:23:12 --> <class '__main__.GoState'>:   command = l ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:23:12 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002928C42D988> ; response = Evaluation going on! ; 
+26/10/2020 13:23:12 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002928C42D988> ; response = Evaluation going on! ; 
+26/10/2020 13:23:12 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002928C42D988> ; response = Evaluation going on! ; 
+26/10/2020 13:23:16 --> <class '__main__.GoState'>:   command = l ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:23:21 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 13:23:21 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 13:24:00--------------------
+--------------------started at: 26/10/2020 13:24:00--------------------
+26/10/2020 13:24:02 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:24:02 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:24:04 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:24:10 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:24:10 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:24:19 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001EBD19B4E48> ; response = Evaluation going on! ; 
+26/10/2020 13:24:26 --> <class '__main__.GoState'>:   command = dfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:24:28 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001EBD19B4E48> ; response = I'm stopping ; 
+26/10/2020 13:24:28 --> <class '__main__.QuitState'>:   command = stop ; 
+--------------------started at: 26/10/2020 13:27:21--------------------
+--------------------started at: 26/10/2020 13:27:21--------------------
+26/10/2020 13:27:23 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:27:23 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:27:25 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:27:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:27:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:27:41 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000016E1F314E08> ; response = Evaluation going on! ; 
+26/10/2020 13:27:45 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000016E1F314E08> ; response = I'm stopping ; 
+26/10/2020 13:27:45 --> <class '__main__.QuitState'>:   command = stop ; 
+--------------------started at: 26/10/2020 13:28:05--------------------
+--------------------started at: 26/10/2020 13:28:05--------------------
+26/10/2020 13:28:07 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:28:07 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:28:08 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:28:16 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:28:16 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:28:25 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002B088404988> ; response = Evaluation going on! ; 
+26/10/2020 13:28:27 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002B088404988> ; response = I'm stopping ; 
+26/10/2020 13:28:27 --> <class '__main__.QuitState'>:   command = stop ; 
+--------------------started at: 26/10/2020 13:29:26--------------------
+--------------------started at: 26/10/2020 13:29:26--------------------
+26/10/2020 13:29:29 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:29:29 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:29:30 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:29:36 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:29:36 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:29:45 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002A0C02549C8> ; response = Evaluation going on! ; 
+26/10/2020 13:29:46 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002A0C02549C8> ; response = I'm stopping ; 
+26/10/2020 13:29:55 --> <class '__main__.GoState'>:   command = fdf ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:55 --> <class '__main__.GoState'>:   command = dfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:56 --> <class '__main__.GoState'>:   command = fd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:56 --> <class '__main__.GoState'>:   command = fdd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:57 --> <class '__main__.GoState'>:   command = fdfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:57 --> <class '__main__.GoState'>:   command = fdfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:58 --> <class '__main__.GoState'>:   command = fdfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:58 --> <class '__main__.GoState'>:   command = fdf ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:58 --> <class '__main__.GoState'>:   command = dfdfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:59 --> <class '__main__.GoState'>:   command = fd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:59 --> <class '__main__.GoState'>:   command = fdfdf ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:29:59 --> <class '__main__.GoState'>:   command = df ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:30:00 --> <class '__main__.GoState'>:   command = dfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:30:00 --> <class '__main__.GoState'>:   command = fdfd ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:30:00 --> <class '__main__.GoState'>:   command = d ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:30:01 --> <class '__main__.GoState'>:   command = fdf ; response = Not a valid command! Commands accepted: position, stop, quit ; 
+26/10/2020 13:30:03 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 13:30:03 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 13:35:34--------------------
+--------------------started at: 26/10/2020 13:35:34--------------------
+26/10/2020 13:35:35 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 13:35:35 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 13:35:37 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:35:43 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 13:35:43 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 13:36:25 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = Invalid Position command syntax ; 
+26/10/2020 13:36:25 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 26/10/2020 14:01:02--------------------
+--------------------started at: 26/10/2020 14:01:02--------------------
+26/10/2020 14:02:02 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 14:02:02 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 14:02:04 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 14:02:49 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 14:02:49 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 14:03:03 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001DF5A3BD688> ; response = Evaluation going on! ; 
+26/10/2020 14:03:46 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001DF5A3BDB88> ; response = Evaluation going on! ; 
+26/10/2020 14:04:18 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001DF5AD56608> ; response = Evaluation going on! ; 
+26/10/2020 14:05:08 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001DF5B36DD08> ; response = Evaluation going on! ; 
+26/10/2020 14:05:54 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000001DF5A82BEC8> ; response = Evaluation going on! ; 
+26/10/2020 14:06:14 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 14:06:14 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 26/10/2020 14:29:25--------------------
+--------------------started at: 26/10/2020 14:29:25--------------------
+26/10/2020 14:29:27 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+26/10/2020 14:29:27 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+26/10/2020 14:29:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 14:29:40 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+26/10/2020 14:29:40 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+26/10/2020 14:29:48 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002094A15E208> ; response = Evaluation going on! ; 
+26/10/2020 14:29:53 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+26/10/2020 14:29:53 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 27/10/2020 11:20:33--------------------
+--------------------started at: 27/10/2020 11:20:33--------------------
+27/10/2020 11:20:35 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:20:35 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:20:37 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:20:53 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:20:53 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:21:05 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x00000254B98BEB08> ; response = Evaluation going on! ; 
+27/10/2020 11:21:27 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+27/10/2020 11:21:27 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 27/10/2020 11:22:17--------------------
+--------------------started at: 27/10/2020 11:22:17--------------------
+27/10/2020 11:22:18 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:22:18 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:22:21 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:22:28 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:22:28 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:24:27 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000029B43495D88> ; response = Evaluation going on! ; 
+27/10/2020 11:25:23 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000029B43495D48> ; response = Evaluation going on! ; 
+27/10/2020 11:26:33 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000029B44729D88> ; response = Evaluation going on! ; 
+--------------------started at: 27/10/2020 11:27:28--------------------
+--------------------started at: 27/10/2020 11:27:28--------------------
+27/10/2020 11:27:31 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:27:31 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:27:33 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:27:40 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:27:40 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:28:01 --> <class '__main__.PositionState'>:   command = qui ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+27/10/2020 11:28:03 --> <class '__main__.PositionState'>:   command = quit ; response = I'm quitting ; 
+27/10/2020 11:28:03 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 27/10/2020 11:28:08--------------------
+--------------------started at: 27/10/2020 11:28:08--------------------
+27/10/2020 11:28:10 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:28:10 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:28:12 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:28:19 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:28:19 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:28:48 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000020E96195D08> ; response = Evaluation going on! ; 
+27/10/2020 11:30:54 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000020E96B1A988> ; response = Evaluation going on! ; 
+27/10/2020 11:31:53 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+27/10/2020 11:31:53 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 27/10/2020 11:40:17--------------------
+--------------------started at: 27/10/2020 11:40:17--------------------
+27/10/2020 11:40:20 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:40:20 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:40:22 --> <class '__main__.ConnectionState'>:   command = ucinewgoame ; response = Not a valid command! First, establish a new game! ; 
+27/10/2020 11:40:22 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:40:26 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:40:34 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:40:34 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 27/10/2020 11:41:00--------------------
+--------------------started at: 27/10/2020 11:41:00--------------------
+27/10/2020 11:41:02 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:41:02 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:41:04 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:41:11 --> <class '__main__.NewGameInitState'>:   command = setoption engine_color ; response = Not a valid command! Commands accepted: position, quit ; 
+27/10/2020 11:41:11 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+--------------------started at: 27/10/2020 11:41:26--------------------
+--------------------started at: 27/10/2020 11:41:26--------------------
+27/10/2020 11:41:28 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+27/10/2020 11:41:28 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+27/10/2020 11:41:31 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:41:38 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+27/10/2020 11:41:38 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+27/10/2020 11:42:14 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x00000209E0F94D88> ; response = Evaluation going on! ; 
+27/10/2020 11:42:53 --> <class '__main__.PositionState'>:   command = position 1k6/8/8/8/8/3R4/2Q5/1K6 w - - 0 0 moves d3b3 b8a7 c2a2 ; response = Not a valid command! Commands accepted: go, stop, quit ; 
+27/10/2020 11:43:00 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x00000209E0FD6E88> ; response = Evaluation going on! ; 
+27/10/2020 11:43:14 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x00000209E195CE08> ; response = Evaluation going on! ; 
+27/10/2020 11:43:23 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+27/10/2020 11:43:23 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 03/11/2020 11:42:51--------------------
+--------------------started at: 03/11/2020 11:42:51--------------------
+03/11/2020 11:42:53 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+03/11/2020 11:42:53 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+03/11/2020 11:42:55 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+03/11/2020 11:43:05 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+03/11/2020 11:43:05 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+03/11/2020 11:43:29 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x000002A0FFCC9588> ; response = Evaluation going on! ; 
+03/11/2020 11:44:47 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+03/11/2020 11:44:47 --> <class '__main__.QuitState'>:   command = quit ; 
+--------------------started at: 03/11/2020 11:48:10--------------------
+--------------------started at: 03/11/2020 11:48:10--------------------
+03/11/2020 11:48:13 --> <class '__main__.StartState'>:   command = uci ; response = UCI protocl established ; 
+03/11/2020 11:48:13 --> <class '__main__.ConnectionState'>:   command = uci ; response = connection established ; 
+03/11/2020 11:48:17 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+03/11/2020 11:48:28 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = setoption command executed ; 
+03/11/2020 11:48:28 --> <class '__main__.NewGameInitState'>:   command = ucinewgame ; response = New game initialization ; 
+03/11/2020 11:49:26 --> <class '__main__.GoState'>:   command = <__main__.GoState object at 0x0000026577F09548> ; response = Evaluation going on! ; 
+03/11/2020 11:50:47 --> <class '__main__.GoState'>:   command = quit ; response = I'm quitting ; 
+03/11/2020 11:50:47 --> <class '__main__.QuitState'>:   command = quit ; 
