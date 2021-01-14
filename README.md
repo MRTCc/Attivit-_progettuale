@@ -1,5 +1,5 @@
 # Attivita_progettuale
-Repository dedicata al lavoro svolto durante l'attività progettuale interna, per il corso di laurea in Ingegneria Informatica.
+Repository dedicata al lavoro svolto durante l'attività progettuale interna, per il corso di laurea in Ingegneria Informatica dell'Università degli Studi di Modena e Reggio Emilia (dipartimento di Ingegneria).
 Il lavoro è suddiviso in due cartelle:
 - ChessEngine1 --> il progetto Python contenuto implementa un prototipo di motore scacchistico. Le features implementate sono:
     - Generatore ad oggetti, legale e incrementale
